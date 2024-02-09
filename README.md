@@ -1,3 +1,3 @@
-* [Jyoti Sharma link](https://github.com/jyotisharma513)
-* [Brian Daze link](https://github.com/jduffy93)
-* [Mehmet Emin Coban link](https://github.com/MECoban)
+* [Jyoti Sharma](https://github.com/jyotisharma513)
+* [Brian Daze](https://github.com/jduffy93)
+* [Mehmet Emin Coban](https://github.com/MECoban)
